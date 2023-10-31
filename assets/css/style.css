@@ -134,7 +134,7 @@ background: transparent;
   grid-template-rows: 300px 300px 300px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "p-one p-one p-five"
+  "p-one p-one p-one"
   "p-two p-three p-five"
   "p-four p-four p-five";
 }
