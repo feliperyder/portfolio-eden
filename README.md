@@ -1,6 +1,6 @@
 # portfolio-eden description
 
-Optimise and refactor existing codebase for improved performance, maintainability, and accessibility.
+A portfolio page to showcase my skills, talents and deployed projects to potential employers.
 
 ## Table of Content
 
@@ -21,10 +21,12 @@ N/A
 To use this webpage, follow these steps:
 
 1. **Accessing the Webpage:** You can access the webpage by opening your web browser and navigating to the URL where the page is hosted.
-https://feliperyder.github.io/horiseon/
+https://feliperyder.github.io/portfolio-eden/
 
 2. **Navigating the Page:** This is a one page website, use the navicational links in the header banner to scroll to the linked section.
 
+3. Screenshot
+![](/assets/MISSING.jpg)
 
 ## Credits
 
@@ -37,9 +39,11 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 Image ‘alt’ attributes
 https://www.w3schools.com/tags/att_img_alt.asp
 
-Navigation bar active.hoover
-https://www.youtube.com/watch?v=oLgtucwjVII
+CSS Styling
+https://www.w3schools.com/css/css3_images.asp
 
+CSS Media Queries
+https://www.w3schools.com/css/css3_mediaqueries.asp
 
 ## License
 
