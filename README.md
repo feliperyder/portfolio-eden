@@ -26,7 +26,7 @@ https://feliperyder.github.io/portfolio-eden/
 2. **Navigating the Page:** This is a one page website, use the navicational links in the header banner to scroll to the linked section.
 
 3. Screenshot
-![](/assets/MISSING.jpg)
+![](/assets/portfolio-eden-screenshot.jpg)
 
 ## Credits
 
