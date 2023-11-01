@@ -156,12 +156,12 @@ height: 240px;
 
 #project-four {
   grid-area: p-four;
-  background-image: url("../images/placeholder.png");
+  background-image: url("../images/placeholder.jpg");
 }
 
 #project-five {
   grid-area: p-five;
-  background-image: url("../images/placeholder.png");
+  background-image: url("../images/placeholder.jpg");
 }
 
 .categoryGridArea {
